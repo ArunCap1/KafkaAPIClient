@@ -7,7 +7,7 @@ Process What i have followed :
 Initially i have started zookeeper and kafka servers which are part of docker compose files with below images  :
 
 
-  # Kafka (it will mainly supporing all topics) : 
+  # Kafka : 
   zookeeper:
     image: wurstmeister/zookeeper
     ports:
